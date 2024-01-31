@@ -34,6 +34,12 @@ FIGMA
 
 <h3> 📌 Página rastreio  </h3>
 
+<h3> 📌 Página descrição da loja ( estara incluso descrição, politica, fale conosco </h3>
+
+<h3> 📌 Página devolução ou troca  </h3>
+
+
+
 Pre-Requisitos
 =================
 
